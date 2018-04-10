@@ -22,7 +22,7 @@ path_save_header = 'D:/DeepLearning/CONTEST/TIANCHI/DATA/header.txt'
 path_save_corr = 'D:/DeepLearning/CONTEST/TIANCHI/DATA/corr.txt'
 
 use_saved_features = True
-training_info = 'DeepFM'
+training_info = 'DeepFM_GitHubTest'
 features_select_rate = 0.7
 
 import time
